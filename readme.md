@@ -17,9 +17,9 @@ Le projet est terminé il sagit d'un mémo sur Markdown
 
 #### Qui sommes-nous :
 
-[Adrien Delpire]("https://github.com/osimers1")
-[Gerardo Cella]("https://github.com/GerardoCella7")
-[Calvin jitnaree](https://github.com/Calvin781")
+[Adrien Delpire](https://github.com/osimers1)
+[Gerardo Cella](https://github.com/GerardoCella7)
+[Calvin jitnaree](https://github.com/Calvin781)
 [Robby Delvaux](https://github.com/Delvaux1986) 
 
 
